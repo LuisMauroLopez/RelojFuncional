@@ -8,4 +8,4 @@ SVG: radios, desplazamientos.
 JS: selectores, estilos, operaciónes aritméticas. 
 
 
-[Link del proyecto:](https://reloj-funcional.netlify.app/)
+[Link del proyecto](https://reloj-funcional.netlify.app/)
